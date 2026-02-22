@@ -3,7 +3,7 @@
 A Python-based AI concierge chatbot for Verde Valley Stays, a boutique eco-lodging business. Guests interact via Telegram to ask questions about properties, check availability, make bookings, and cancel reservations.
 
 This project was converted from an original n8n workflow system into a self-contained Python application. The n8n workflows were reviewed, mapped, and restructured into a clean Python architecture — replacing visual nodes and separate sub-workflows with modular, readable code.
-Original n8n project: //
+Original n8n project: [verde-valley-stays-n8n](https://github.com/leighauza/verde-valley-stays-n8n)
 
 ---
 
