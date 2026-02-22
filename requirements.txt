@@ -1,0 +1,22 @@
+# Telegram
+python-telegram-bot==21.6
+
+# Anthropic (Claude)
+anthropic==0.34.0
+
+# OpenAI (Embeddings)
+openai==1.45.0
+
+# Supabase
+supabase==2.7.4
+
+# Google Calendar
+google-api-python-client==2.143.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.1
+
+# PDF parsing (ingestion script)
+PyMuPDF==1.24.10
+
+# Environment variables
+python-dotenv==1.0.1
